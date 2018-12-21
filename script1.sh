@@ -1,3 +1,3 @@
 #!/bin/bash
-yum install httpd -y
+yum install ntpd -y
 
