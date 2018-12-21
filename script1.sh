@@ -1,3 +1,3 @@
 #!/bin/bash
-yum install talk -y
+yum install httpd -y
 
